@@ -1,12 +1,7 @@
 //<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
-//                           G E U                              <>
-//                  3RD SEMESTER MINI PROJECT                   <>
 //                    BANK MANAGEMENT SYSTEM                    <>
-//                                                              <>
-//                                                              <>
-//Submitted By:-                                                <>
-//Name : PRIYA SHARMA                                           <>
-//University Roll No. : 2014435                                 <>
+//                                                              <>                                               
+//Name : PRIYA SHARMA                                           <>                             
 //Course : B.Tech (CSE)                                         <>
 //<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 
